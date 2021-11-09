@@ -16,7 +16,9 @@ A
 gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
 ?
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
-<
-build.gradle,f/0/f07866736216be0ee2aba49e392191aeae700a35
-@
-app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+}
+Mapp/src/androidTest/java/com/bogotravel/helloworld/ExampleInstrumentedTest.kt,c/c/ccee61a59af29f3f91f9f1935d55da71685c8994
+n
+>app/src/test/java/com/bogotravel/helloworld/ExampleUnitTest.kt,5/5/5565cde7024b56e8561b31de32db0cfb5a688846
+k
+;app/src/main/java/com/bogotravel/helloworld/MainActivity.kt,6/4/6458147606cf31727acc796b35162c5cd83f33f1
